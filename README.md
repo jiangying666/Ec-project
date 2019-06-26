@@ -42,7 +42,3 @@ weixin-shop-spring-cloud
 ├─shop-service-system           // 系统模块
 ├─shop-service-user             // 用户模块
 ```
-
-QQ群号：55088109
-
-![image](https://github.com/chengzhx76/weixin-shop-spring-cloud/blob/master/resource/55088109.png)
